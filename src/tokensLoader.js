@@ -133,9 +133,6 @@ export class TokensLoader {
     const newData = {};
     for (let key in tokens) {
       let newKey = key.toLowerCase();
-      if (!isNaN(key)) {
-        newKey = parseInt(key);
-      }
       if (
         typeof tokens[key] === "object" &&
         Object.keys(tokens[key]).length > 0 &&

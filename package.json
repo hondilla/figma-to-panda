@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hjson": "^3.2.2",
-    "json5": "^2.2.3"
+    "hjson": "^3.2.2"
   }
 }

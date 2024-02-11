@@ -1,27 +1,34 @@
 export const config = {
-  tokensPath: "./tokens",
+  tokensPath: "tokens",
   metadataFile: "$metadata.json",
+  buildPath: "build",
 
   mappings: {
     categories: {
-        tokens: ["Colors", "Fonts", "Dimensions"],
-        semanticTokens: ["Light", "Dark"]
+      tokens: ["Colors", "Fonts", "Dimensions"],
+      semanticTokens: ["Light", "Dark"],
     },
     types: {
-        color: "colors",
-        typography: "textStyles",
-        fontFamilies: "fonts"
+      color: "colors",
+      typography: "textStyles",
+      fontFamilies: "fonts",
     },
     tokensName: {
-        fontFamilies: "fonts",
-        borderRadius: "radii"
+      fontFamilies: "fonts",
+      borderRadius: "radii",
     },
     conditionalTokens: {
-        Light: "base",
-        Dark: "_dark",
-        Desktop: "_desktop",
-        Mobile: "_mobile",
+      Light: "base",
+      Dark: "_dark",
+      Desktop: "_desktop",
+      Mobile: "_mobile",
     },
-    css: {}
+    css: {},
+  },
+
+  panda: {
+    tokens: "tokens",
+    semanticTokens: "schemas",
+    textStyles: "texts"
   }
 };
