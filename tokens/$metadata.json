@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "Colors",
+    "Fonts",
+    "Dimensions",
+    "Light",
+    "Dark",
+    "Desktop",
+    "Mobile"
+  ]
+}

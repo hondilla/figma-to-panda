@@ -1,0 +1,16 @@
+{
+  "name": "tokens-to-panda",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "build": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hjson": "^3.2.2",
+    "json5": "^2.2.3"
+  }
+}

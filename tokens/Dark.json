@@ -1,0 +1,508 @@
+{
+  "Brand": {
+    "Primary": {
+      "Foreground": {
+        "1": {
+          "enabled": {
+            "value": "{colors.blue.400}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "hovered": {
+            "value": "{colors.blue.300}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Background": {
+        "1": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "hovered": {
+            "value": "{colors.blue.900}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "selected": {
+            "value": "{colors.blue.700}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "enabled": {
+            "value": "{colors.blue.800}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "hovered": {
+            "value": "{colors.blue.900}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "selected": {
+            "value": "{colors.blue.900}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        },
+        "3": {
+          "enabled": {
+            "value": "{colors.blue.400}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "hovered": {
+            "value": "{colors.blue.300}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "selected": {
+            "value": "{colors.blue.300}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        },
+        "Subtle": {
+          "enabled": {
+            "value": "{colors.blue.800}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "hovered": {
+            "value": "{colors.blue.800}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Stroke": {
+        "1": {
+          "enabled": {
+            "value": "{colors.blue.800}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "enabled": {
+            "value": "{colors.blue.400}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "hovered": {
+            "value": "{colors.blue.200}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "selected": {
+            "value": "{colors.blue.300}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      }
+    }
+  },
+  "Neutral": {
+    "Foreground": {
+      "1": {
+        "enabled": {
+          "value": "{colors.grey.0}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        },
+        "hovered": {
+          "value": "{colors.grey.0}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        },
+        "selected": {
+          "value": "{colors.grey.0}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "2": {
+        "enabled": {
+          "value": "{colors.grey.200}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        },
+        "hovered": {
+          "value": "{colors.grey.0}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        },
+        "selected": {
+          "value": "{colors.grey.200}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "3": {
+        "enabled": {
+          "value": "{colors.grey.600}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        },
+        "hovered": {
+          "value": "{colors.grey.600}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "OnBrand": {
+        "enabled": {
+          "value": "{colors.grey.900}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "Inverted": {
+        "enabled": {
+          "value": "{colors.grey.900}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "Brand": {
+        "Primary": {
+          "hovered": {
+            "value": "{colors.blue.500}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "selected": {
+            "value": "{colors.blue.500}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Background": {
+      "1": {
+        "enabled": {
+          "value": "{colors.grey.950}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "2": {
+        "enabled": {
+          "value": "{colors.grey.900}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "3": {
+        "enabled": {
+          "value": "{colors.grey.800}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "4": {
+        "enabled": {
+          "value": "{colors.grey.600}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "Inverted": {
+        "1": {
+          "enabled": {
+            "value": "{colors.grey.0}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "hovered": {
+            "value": "{colors.grey.50}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "enabled": {
+            "value": "{colors.grey.0}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "hovered": {
+            "value": "{colors.grey.50}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Alpha": {
+        "enabled": {
+          "value": "#000000e6",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "Brand": {
+        "Primary": {
+          "Hovered": {
+            "value": "{colors.blue.500}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Stroke": {
+      "1": {
+        "enabled": {
+          "value": "{colors.grey.800}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "2": {
+        "enabled": {
+          "value": "{colors.grey.700}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "3": {
+        "enabled": {
+          "value": "{colors.grey.300}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "4": {
+        "enabled": {
+          "value": "{colors.grey.0}",
+          "type": "color",
+          "parent": "Semantic Tokens/Dark",
+          "description": ""
+        }
+      },
+      "Brand": {
+        "Primary": {
+          "Hovered": {
+            "value": "{colors.blue.500}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      }
+    }
+  },
+  "Status": {
+    "Danger": {
+      "Foreground": {
+        "1": {
+          "enabled": {
+            "value": "{colors.red.300}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Background": {
+        "1": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "hovered": {
+            "value": "{colors.red.900}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "enabled": {
+            "value": "{colors.red.400}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Stroke": {
+        "1": {
+          "enabled": {
+            "value": "{colors.red.800}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "enabled": {
+            "value": "{colors.red.300}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Warning": {
+      "Foreground": {
+        "1": {
+          "enabled": {
+            "value": "{colors.orange.500}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Background": {
+        "1": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "hovered": {
+            "value": "{colors.orange.900}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "enabled": {
+            "value": "{colors.orange.500}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Stroke": {
+        "1": {
+          "enabled": {
+            "value": "{colors.orange.800}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "enabled": {
+            "value": "{colors.orange.500}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Success": {
+      "Foreground": {
+        "1": {
+          "enabled": {
+            "value": "{colors.green.500}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Background": {
+        "1": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          },
+          "hovered": {
+            "value": "{colors.green.900}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "enabled": {
+            "value": "{colors.green.500}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Stroke": {
+        "1": {
+          "enabled": {
+            "value": "{colors.green.800}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "enabled": {
+            "value": "{colors.green.500}",
+            "type": "color",
+            "parent": "Semantic Tokens/Dark",
+            "description": ""
+          }
+        }
+      }
+    }
+  }
+}

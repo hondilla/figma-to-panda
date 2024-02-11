@@ -1,0 +1,12 @@
+{
+  "fontFamilies": {
+    "base": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "heading": {
+      "value": "Space Grotesk",
+      "type": "fontFamilies"
+    }
+  }
+}

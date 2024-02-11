@@ -1,0 +1,344 @@
+{
+  "colors": {
+    "blue": {
+      "50": {
+        "value": "#eefafc",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "100": {
+        "value": "#c9eef6",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "200": {
+        "value": "#afe6f1",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "300": {
+        "value": "#8adbeb",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "400": {
+        "value": "#74d4e7",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "500": {
+        "value": "#51C9E1",
+        "type": "color",
+        "parent": "Primitive Tokens/valor"
+      },
+      "600": {
+        "value": "#4ab7cd",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "700": {
+        "value": "#3a8fa0",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "800": {
+        "value": "#2d6f7c",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "900": {
+        "value": "#22545f",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      }
+    },
+    "grey": {
+      "0": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "50": {
+        "value": "#f2f2f2",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "75": {
+        "value": "#e6e6e6",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "100": {
+        "value": "#d9d9d9",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "150": {
+        "value": "#cccccc",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "200": {
+        "value": "#bfbfbf",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "300": {
+        "value": "#b2b2b2",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "400": {
+        "value": "#999999",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "500": {
+        "value": "#808080",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "600": {
+        "value": "#666666",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "700": {
+        "value": "#4d4d4d",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "800": {
+        "value": "#333333",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "900": {
+        "value": "#262626",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "950": {
+        "value": "#1a1a1a",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "1000": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      }
+    },
+    "red": {
+      "50": {
+        "value": "#feebef",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "100": {
+        "value": "#fcc1cc",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "200": {
+        "value": "#faa3b4",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "300": {
+        "value": "#f87892",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "400": {
+        "value": "#f75e7d",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "500": {
+        "value": "#f5365c",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "600": {
+        "value": "#df3154",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "700": {
+        "value": "#ae2641",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "800": {
+        "value": "#871e33",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "900": {
+        "value": "#671727",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      }
+    },
+    "green": {
+      "50": {
+        "value": "#eafaf3",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "100": {
+        "value": "#bef0da",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "200": {
+        "value": "#9ee8c9",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "300": {
+        "value": "#72deb0",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "400": {
+        "value": "#57d8a1",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "500": {
+        "value": "#2dce89",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "600": {
+        "value": "#29bb7d",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "700": {
+        "value": "#209261",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "800": {
+        "value": "#19714b",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "900": {
+        "value": "#13573a",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      }
+    },
+    "orange": {
+      "50": {
+        "value": "#fff1e6",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "100": {
+        "value": "#ffd4b0",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "200": {
+        "value": "#ffbf8a",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "300": {
+        "value": "#ffa154",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "400": {
+        "value": "#ff8f33",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "500": {
+        "value": "#ff7300",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "600": {
+        "value": "#e86900",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "700": {
+        "value": "#b55200",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "800": {
+        "value": "#8c3f00",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      },
+      "900": {
+        "value": "#6b3000",
+        "type": "color",
+        "parent": "Primitive Tokens/valor",
+        "description": ""
+      }
+    }
+  }
+}
