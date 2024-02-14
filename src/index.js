@@ -9,6 +9,7 @@ class TokensToPanda {
 
   generate() {
     const tokens = this.tokens.tokens();
+
     Object.keys(tokens).map((category) => {
       Object.keys(tokens[category]).map((key) => {
         const content = templates[category](key, tokens[category][key]);

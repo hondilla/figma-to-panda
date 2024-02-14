@@ -6,13 +6,11 @@
           "enabled": {
             "value": "{colors.blue.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "hovered": {
             "value": "{colors.blue.600}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -22,39 +20,33 @@
           "enabled": {
             "value": "#ffffff00",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "hovered": {
             "value": "{colors.blue.100}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "selected": {
             "value": "{colors.blue.100}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         },
         "2": {
           "enabled": {
-            "value": "{colors.blue.50}",
+            "value": "{colors.blue.100}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "hovered": {
             "value": "{colors.blue.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "selected": {
             "value": "{colors.blue.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         },
@@ -62,33 +54,28 @@
           "enabled": {
             "value": "{colors.blue.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "hovered": {
             "value": "{colors.blue.600}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "selected": {
             "value": "{colors.blue.600}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         },
         "Subtle": {
           "enabled": {
-            "value": "{colors.blue.50}",
+            "value": "{colors.blue.100}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "hovered": {
-            "value": "{colors.blue.50}",
+            "value": "{colors.blue.100}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -98,7 +85,6 @@
           "enabled": {
             "value": "{colors.blue.100}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         },
@@ -106,19 +92,16 @@
           "enabled": {
             "value": "{colors.blue.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "hovered": {
             "value": "{colors.blue.700}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "selected": {
             "value": "{colors.blue.700}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -131,19 +114,16 @@
         "enabled": {
           "value": "{colors.grey.900}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         },
         "hovered": {
           "value": "{colors.grey.900}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         },
         "selected": {
           "value": "{colors.grey.900}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         }
       },
@@ -151,19 +131,16 @@
         "enabled": {
           "value": "{colors.grey.600}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         },
         "hovered": {
           "value": "{colors.grey.800}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         },
         "selected": {
           "value": "{colors.grey.800}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         }
       },
@@ -171,13 +148,11 @@
         "enabled": {
           "value": "{colors.grey.300}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         },
         "hovered": {
           "value": "{colors.grey.400}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         }
       },
@@ -185,14 +160,13 @@
         "enabled": {
           "value": "{colors.grey.900}",
           "type": "color",
-          "parent": "Semantic Tokens/Light"
+          "description": ""
         }
       },
       "Inverted": {
         "enabled": {
           "value": "{colors.grey.0}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         }
       },
@@ -201,13 +175,11 @@
           "hovered": {
             "value": "{colors.blue.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "selected": {
             "value": "{colors.blue.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -218,31 +190,27 @@
         "enabled": {
           "value": "{colors.grey.0}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         }
       },
       "2": {
         "enabled": {
-          "value": "{colors.grey.50}",
+          "value": "{colors.grey.100}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         }
       },
       "3": {
         "enabled": {
-          "value": "{colors.grey.75}",
+          "value": "{colors.grey.200}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         }
       },
       "4": {
         "enabled": {
-          "value": "{colors.grey.100}",
+          "value": "{colors.grey.300}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         }
       },
@@ -251,27 +219,22 @@
           "enabled": {
             "value": "{colors.grey.900}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "hovered": {
             "value": "{colors.grey.1000}",
-            "type": "color",
-            "parent": "Semantic Tokens/Light",
-            "description": ""
+            "type": "color"
           }
         },
         "2": {
           "enabled": {
             "value": "{colors.grey.700}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "hovered": {
             "value": "{colors.grey.800}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -280,7 +243,6 @@
         "enabled": {
           "value": "#ffffffe6",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         }
       },
@@ -289,7 +251,6 @@
           "Hovered": {
             "value": "{colors.blue.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -298,9 +259,8 @@
     "Stroke": {
       "1": {
         "enabled": {
-          "value": "{colors.grey.50}",
+          "value": "{colors.grey.100}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         }
       },
@@ -308,7 +268,6 @@
         "enabled": {
           "value": "{colors.grey.200}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         }
       },
@@ -316,7 +275,6 @@
         "enabled": {
           "value": "{colors.grey.700}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         }
       },
@@ -324,7 +282,6 @@
         "enabled": {
           "value": "{colors.grey.1000}",
           "type": "color",
-          "parent": "Semantic Tokens/Light",
           "description": ""
         }
       },
@@ -333,7 +290,6 @@
           "Hovered": {
             "value": "{colors.blue.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -347,7 +303,6 @@
           "enabled": {
             "value": "{colors.red.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -357,13 +312,11 @@
           "enabled": {
             "value": "#ffffff00",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "hovered": {
-            "value": "{colors.red.50}",
+            "value": "{colors.red.100}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         },
@@ -371,7 +324,6 @@
           "enabled": {
             "value": "{colors.red.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -381,7 +333,6 @@
           "enabled": {
             "value": "{colors.red.100}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         },
@@ -389,7 +340,6 @@
           "enabled": {
             "value": "{colors.red.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -401,7 +351,6 @@
           "enabled": {
             "value": "{colors.orange.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -411,13 +360,11 @@
           "enabled": {
             "value": "#ffffff00",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "hovered": {
-            "value": "{colors.orange.50}",
+            "value": "{colors.orange.100}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         },
@@ -425,7 +372,6 @@
           "enabled": {
             "value": "{colors.orange.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -435,7 +381,6 @@
           "enabled": {
             "value": "{colors.orange.100}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         },
@@ -443,7 +388,6 @@
           "enabled": {
             "value": "{colors.orange.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -455,7 +399,6 @@
           "enabled": {
             "value": "{colors.green.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -465,13 +408,11 @@
           "enabled": {
             "value": "#ffffff00",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           },
           "hovered": {
-            "value": "{colors.green.50}",
+            "value": "{colors.green.100}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         },
@@ -479,7 +420,6 @@
           "enabled": {
             "value": "{colors.green.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }
@@ -489,7 +429,6 @@
           "enabled": {
             "value": "{colors.green.100}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         },
@@ -497,7 +436,6 @@
           "enabled": {
             "value": "{colors.green.500}",
             "type": "color",
-            "parent": "Semantic Tokens/Light",
             "description": ""
           }
         }

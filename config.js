@@ -1,3 +1,5 @@
+import colorModifier from "./src/transformers/color-modifier/colorModifier.js";
+
 export const config = {
   tokensPath: "tokens",
   metadataFile: "$metadata.json",
@@ -5,8 +7,8 @@ export const config = {
 
   mappings: {
     categories: {
-      tokens: ["Colors", "Fonts", "Dimensions"],
-      semanticTokens: ["Light", "Dark"],
+      tokens: ["colors", "fonts", "dimensions"],
+      semanticTokens: ["light", "dark"],
     },
     types: {
       color: "colors",
@@ -18,12 +20,23 @@ export const config = {
       borderRadius: "radii",
     },
     conditionalTokens: {
-      Light: "base",
-      Dark: "_dark",
-      Desktop: "_desktop",
-      Mobile: "_mobile",
+      light: "base",
+      dark: "_dark",
+      desktop: "_desktop",
+      mobile: "_mobile",
     },
-    css: {},
+    replaceTokensValue: ["textCases"],
+    ignoreTokens: ["paragraphSpacing"],
+    ignoreProperties: [],
+    css: {
+      textCase: "textTransform",
+    },
+    extensions: {
+      modifier: {
+        key: "modify",
+        transformer: colorModifier
+      }
+    },
   },
 
   panda: {
